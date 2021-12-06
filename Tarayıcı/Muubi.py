@@ -40,7 +40,7 @@ while True:
     if sorgu.lower() == "vikipedi":
         print("Vikipedi de aramak istediğiniz içerik veya bilgi nedir?")
         search = input("->> ")
-        browser = webdriver.Chrome(executable_path='C:/driver/chromedriver')
+        browser = webdriver.Chrome(executable_path='driver/chromedriver')
         browser.get("https://tr.wikipedia.org/wiki/")
         time.sleep(2)
         txtsearch = browser.find_element_by_name('search')
