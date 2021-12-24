@@ -1,6 +1,6 @@
 # Mini-Tarayici
 
-Muubi - Mini Tarayıcı
+>>> Muubi - Mini Tarayıcı
 
 ->> Muubi gelişmiş bir mini tarayıcıdır.
 
